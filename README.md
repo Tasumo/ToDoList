@@ -5,3 +5,5 @@ What I Have Learned:
 
 how to use jQuery 
 CSS styling a website with animation
+
+Thanks to Colt Steele for helping
